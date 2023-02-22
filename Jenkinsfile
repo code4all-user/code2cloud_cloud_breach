@@ -6,7 +6,7 @@ pipeline {
       CONTAINER_NAME = 'code2cloud'
       PCC_SAN = 'us-east1.cloud.twistlock.com'
       // ECR_REPOSITORY = '' // ex. '89647xxxxxxx.dkr.ecr.us-east-1.amazonaws.com/code2cloud-ecr'
-      // CONTAINER_NAME = 'code2cloud' demo
+      // CONTAINER_NAME = 'code2cloud' demoaAD
       // PCC_SAN = '' // 'us-east1.cloud.twistlock.com'
    }
     stages {
